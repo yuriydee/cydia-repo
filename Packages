@@ -5,7 +5,7 @@ Maintainer: YuriyDee <blitzmoney94@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/jp.akusio.kernbypass_0.0.1_iphoneos-arm.deb
-Size: 380
+Size: 11774
 Description: Firmware should be greater than 12.0
 Name: KernBypass
 Author: Akusio <akusio@gmail.com>
