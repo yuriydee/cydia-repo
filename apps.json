@@ -91,16 +91,6 @@
   ],
   "news": [
     {
-      "title": "Cercube 5 for YouTube",
-      "identifier": "YouTube++-available-now",
-      "caption": "Could be categorized as a YouTube user’s dream tweak.",
-      "tintColor": "FF4500",
-      "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
-      "appID": "com.google.ios.youtube",
-      "date": "2021-08-21",
-      "notify": false
-    },
-    {
       "title": "Spotify++",
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
@@ -108,6 +98,16 @@
       "imageURL": "https://techlacarte.com/wp-content/uploads/2019/07/Get-Spotify-Premium-for-Free.jpg",
       "appID": "com.spotify.client",
       "date": "2021-02-06",
+      "notify": false
+    },
+    {
+      "title": "Cercube 5 for YouTube",
+      "identifier": "YouTube++-available-now",
+      "caption": "Could be categorized as a YouTube user’s dream tweak.",
+      "tintColor": "#eb150e",
+      "imageURL": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube.jpg",
+      "appID": "com.google.ios.youtube",
+      "date": "2021-08-21",
       "notify": false
     }
   ]
