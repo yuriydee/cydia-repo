@@ -6,15 +6,15 @@
       "name": "Cercube Max",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "qnblackcat",
-      "subtitle": "YouTube 17.37.3",
-      "version": "17.37.3",
-      "versionDate": "2022-09-27T17:30:00-07:00",
-      "versionDescription": "📹 Updated to YouTube (17.37.3)\n• Cercube Pro (5.3.11)\n• iSponsorBlock (1.0-11)\n• Alderis Color Picker (1.1.2)\n• YTABGoodies (1.0.0)\n• YTUHD (1.2.5)\n• YouPiP (1.5.15)\n• YTClassicVideoQuality (1.0.1)\n• YTnoshorts (1.0.2)\n• NoYTPremium (1.0.3)\n• BigYTMiniPlayer (1.0)\n• YouTube Dislikes Return (1.1.3)\n",
-      "downloadURL": "https://yuriydee-cydia-repo.s3.amazonaws.com/ipa/CercubePlus_17.37.3_5.3.11.ipa",
+      "subtitle": "YouTube 17.42.7",
+      "version": "17.42.7",
+      "versionDate": "2022-10-27T23:30:00-24:00",
+      "versionDescription": "📹 Updated to YouTube (17.42.7)\n• Cercube Pro (5.3.11)\n• iSponsorBlock (1.0-11)\n• Alderis Color Picker (1.1.2)\n• YTABGoodies (1.0.0)\n• YTUHD (1.2.5)\n• YouPiP (1.5.15)\n• YTClassicVideoQuality (1.0.1)\n• YTnoshorts (1.0.2)\n• NoYTPremium (1.0.3)\n• BigYTMiniPlayer (1.0)\n• YouTube Dislikes Return (1.1.3)\n",
+      "downloadURL": "https://yuriydee-cydia-repo.s3.amazonaws.com/ipa/CercubePlus_17.42.7_5.3.11.ipa",
       "localizedDescription": "Adds new features to YouTube:\n\n• Download and save videos up to 4k resolution\n• Save videos as audio only\n• View, manage and share all your downloads in Cercube's download manager\n• Block ads\n• Share downloaded videos with other devices via AirDrop\n• Background playback for streamed and downloaded videos\n• Import downloads to Music or Videos\n• Play YouTube videos using Picture-in-Picture mode\n• Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\n• Choose the default tab to open when launching YouTube\n• Stream videos in HD on cellular network\n• Auto-replay videos\n• Hide floating upload button\n• Hide the Trending tab\n• Rewind or forward videos\n• Cercube options are configurable from within YouTube settings\n• Play in high quality on Mobile Data",
       "iconURL": "https://iosninja.io/img/ipas/cercubemax.png",
       "tintColor": "#100e1c",
-      "size": 1.052e+8,
+      "size": 1.012e+8,
       "permissions": [
         {
           "type": "photos",
@@ -103,7 +103,7 @@
       "tintColor": "#100e1c",
       "imageURL": "https://iosninja.io/img/ipas/cercubemax.png",
       "appID": "com.google.ios.youtube",
-      "date": "2022-09-27",
+      "date": "2022-10-27",
       "notify": false
     }
   ]
