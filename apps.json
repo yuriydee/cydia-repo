@@ -115,7 +115,7 @@
       "tintColor": "228B22",
       "imageURL": "https://techlacarte.com/wp-content/uploads/2019/07/Get-Spotify-Premium-for-Free.jpg",
       "appID": "com.spotify.client",
-      "date": "2021-02-06",
+      "date": "2021-02-06T12:00:00-01:00",
       "notify": false
     },
     {
@@ -125,7 +125,7 @@
       "tintColor": "#100e1c",
       "imageURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
       "appID": "com.google.ios.youtube",
-      "date": "2024-2-27",
+      "date": "2024-2-27T12:00:00-01:00",
       "notify": false
     }
   ]
