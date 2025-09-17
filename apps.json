@@ -12,7 +12,7 @@
     "versionDescription": "Apollo 1.15.11 with Improved Custom API 1.2.1 integration.",
     "downloadURL": "https://yuriydee-cydia-repo.s3.us-east-1.amazonaws.com/ipa/Apollo-1.15.11_improvedcustomapi-1.2.1.ipa",
     "localizedDescription": "Apollo is a powerful, beautiful, and fast Reddit client for iOS. Enjoy a smooth browsing experience, customizable gestures, a media viewer, and more. This version includes the Improved Custom API for enhanced functionality.",
-    "iconURL": "https://cdn.appleosophy.com/2019/07/apollo-app-1160x653.png",
+    "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Apollo_app_icon.svg/1200px-Apollo_app_icon.svg.png",
     "tintColor": "#4A90E2",
     "size": 65200000,
     "permissions": [
@@ -26,9 +26,11 @@
       }
     ],
     "screenshotURLs": [
-      "https://apolloapp.io/img/screenshots/1.png",
-      "https://apolloapp.io/img/screenshots/2.png",
-      "https://apolloapp.io/img/screenshots/3.png"
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1e/6d/8e/1e6d8e7e-8b7d-2e7e-6e7e-8b7d2e7e6e7e/1e6d8e7e-8b7d-2e7e-6e7e-8b7d2e7e6e7e_1.png/1242x2688bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2a/3b/4c/2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d/2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d_2.png/1242x2688bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/4d/5e/3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f/3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f_3.png/1242x2688bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/5f/6a/4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b/4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b_4.png/1242x2688bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5f/6a/7b/5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c/5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c_5.png/1242x2688bb.png"
     ]
   },
     {
