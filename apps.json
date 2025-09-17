@@ -138,6 +138,16 @@
   ],
   "news": [
     {
+      "title": "Apollo for Reddit",
+      "identifier": "apollo-available-now",
+      "caption": "Apollo is back with Improved Custom API integration!",
+      "tintColor": "#4A90E2",
+      "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/9e/0e/6b9e0e6a-2e7b-6b6e-2e7b-6b6e2e7b6b6e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "appID": "com.christianselig.Apollo",
+      "date": "2024-09-17T12:00:00-01:00",
+      "notify": false
+    },
+    {
       "title": "Spotify++",
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
