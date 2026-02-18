@@ -7,11 +7,11 @@
     "name": "Apollo",
     "bundleIdentifier": "com.christianselig.Apollo",
     "developerName": "Christian Selig",
-    "subtitle": "A beautiful Reddit client for iOS.",
+    "subtitle": "A beautiful Reddit client for iOS with Liquid Glass support.",
     "version": "1.15.11",
-    "versionDate": "2024-09-17T12:00:00-01:00",
-    "versionDescription": "Apollo 1.15.11 with Improved Custom API 1.2.1 integration.",
-    "downloadURL": "https://yuriydee-cydia-repo.s3.us-east-1.amazonaws.com/ipa/Apollo-1.15.11_improvedcustomapi-1.2.1.ipa",
+    "versionDate": "2026-02-13T12:00:00-01:00",
+    "versionDescription": "Apollo 1.15.11 with Improved Custom API 1.4.5 integration and Liquid Glass support.",
+    "downloadURL": "https://yuriydee-cydia-repo.s3.us-east-1.amazonaws.com/ipa/Apollo-1.15.11_ImprovedCustomApi-1.4.5.ipa",
     "localizedDescription": "Apollo is a powerful, beautiful, and fast Reddit client for iOS. Enjoy a smooth browsing experience, customizable gestures, a media viewer, and more. This version includes the Improved Custom API for enhanced functionality.",
     "iconURL": "https://cdn.jim-nielsen.com/ios/1024/apollo-for-reddit-2023-07-07.png?rf=1024",
     "tintColor": "#4A90E2",
@@ -147,8 +147,8 @@
       "tintColor": "#4A90E2",
       "imageURL": "https://cdn.appleosophy.com/2019/07/apollo-app-1160x653.png",
       "appID": "com.christianselig.Apollo",
-      "date": "2024-09-17T12:00:00-01:00",
-      "notify": false
+      "date": "2026-02-18T12:00:00-01:00",
+      "notify": true
     },
     {
       "title": "Spotify++",
